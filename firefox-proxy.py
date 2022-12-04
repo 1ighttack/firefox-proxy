@@ -33,7 +33,7 @@ def openfiles():
             domain = domain.strip()
             add_json = {
                       "title": "1ighttack",
-                      "pattern": "*.{}".format(domain),
+                      "pattern": "*.{}*".format(domain),
                       "type": 1,
                       "protocols": 1,
                       "active": True
