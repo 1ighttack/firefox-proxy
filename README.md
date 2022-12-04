@@ -1,4 +1,4 @@
-Firefox插件FoxyProxy辅助添加白名单
+Firefox插件FoxyProxy辅助添加白名单，感谢手动@joner11234师傅帮忙完成
 
 用法：
 
