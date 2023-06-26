@@ -4,7 +4,7 @@ Firefox插件FoxyProxy辅助添加白/黑名单。此工具的出现主要为了
 
 将要添加白/黑名单域名放到domain.txt，运行脚本会生成new_file.json
 
-Python3 firefox-proxy.w.py   添加白名单
+Python3 firefox-proxy.w.py   添加白名单<br>
 Python3 firefox-proxy.b.py   添加黑名单
 
 打开插件模式页面选择new_file.json导入
